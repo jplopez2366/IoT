@@ -15,7 +15,18 @@ void loop() {
   // put your main code here, to run repeatedly:
 
  digitalWrite(led_verde,HIGH); //LOW para apagar // HIGH prender
+ delay(500); // 1000 = 1 seg
+ digitalWrite(led_verde,LOW);
+ delay(500);
+
  digitalWrite(led_amarillo,HIGH); //LOW para apagar // HIGH prender
+ delay(500); // 1000 = 1 seg
+ digitalWrite(led_amarillo,LOW);
+ delay(500);
+
  digitalWrite(led_rojo,HIGH); //LOW para apagar // HIGH prender
- 
+ delay(500); // 1000 = 1 seg
+ digitalWrite(led_rojo,LOW);
+ delay(500);  
+
 }
