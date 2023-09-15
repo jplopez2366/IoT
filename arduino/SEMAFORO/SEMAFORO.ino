@@ -1,4 +1,4 @@
-// JUAN PABLO LOPEZ RODRIGUEZ
+// JUAN PABLO LOPEZ RODRIGUEZ   DAVID ESTEBAN PANTOJA
 int led_rojo = 10;//refactorizacion - codigo quemado 13 = numero del pin
 int led_amarillo = 11;
 int led_verde = 13;
